@@ -3,3 +3,4 @@ Computer Programming
 I am hoping to further understand git
 This lab we have partners
 This repository was updated by Chelsea Young
+I am learning how to create branches and merge changes using pull requests.
