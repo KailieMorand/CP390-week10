@@ -2,3 +2,4 @@ Kailie Morand
 Computer Programming
 I am hoping to further understand git
 This lab we have partners
+This repository was updated by Chelsea Young
